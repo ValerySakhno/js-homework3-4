@@ -1,0 +1,36 @@
+.house{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+
+button{
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+.signal{
+    background-color: rgb(128, 126, 0);
+    margin-bottom: 50px;
+    width: 25%;
+}
+
+.cam{
+    background-color: rgb(236, 154, 195);
+    margin-bottom: 50px;
+    width: 25%;
+}
+.cond{
+    background-color: rgb(69, 69, 145);
+    margin-bottom: 50px;
+    width: 25%;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#root{
+    display: flex;
+    justify-content: space-between;
+}
